@@ -79,3 +79,14 @@ html {
     background-color: #ff9776;
   }
 
+  /* modo oscuro */
+
+  html.dark {
+    background-color: #0d0d14;
+    color: #fff;
+  }
+  
+  .dark .nav-links a {
+    color: #fff;
+  }
+
